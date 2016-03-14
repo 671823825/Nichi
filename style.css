@@ -1,0 +1,28 @@
+a{
+	color: blue;
+}
+a:hover{
+	color: red;
+}
+h1{
+	text-align: center;
+	background-color: #FF6347;
+}
+h2{
+	display: inline-block;
+	background-color: #FFA54F;
+	padding: 10px;
+}
+.title-link{
+	font-size: 20px;
+}
+.inline-a{
+	width: 2000px;
+}
+.inline{
+	display: inline-block;
+	width: 250px;
+	font-family: "微软雅黑";
+	font-weight: bold;
+	text-align: center;
+}
