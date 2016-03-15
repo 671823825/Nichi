@@ -26,3 +26,13 @@ h2{
 	font-weight: bold;
 	text-align: center;
 }
+form{
+	padding: 5px;
+}
+.password,.name{
+	font-weight: bold;
+}
+textarea{
+	width: 200px;
+	height: 50px;
+}
